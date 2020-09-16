@@ -14,12 +14,12 @@ class MemeItem extends Component
     {
         console.log('this.props',this.props)
         const {text0,text1}=this.props;
-        const temObj={
+        const memeObj={
             template_id	:this.props.id,
             text0,
             text1
         }
-        this.props.createMeme(temObj)
+        this.props.createMeme(memeObj)
     }
     render()
     

@@ -2,6 +2,7 @@ import React,{Component} from 'react'
 import {connect }from 'react-redux'
 import {Form} from 'react-bootstrap'
 import MemeItem from './MemeItem'
+import MyMeme from './MyMemes'
 import '../styles/index.css'
 class App    extends Component{
     constructor ()
@@ -18,6 +19,7 @@ class App    extends Component{
 {
     return(<div>
         <div><u>Welcome to Meme Generator</u></div>
+        <MyMeme />
         <Form inline>
             <h4>Write something</h4>
         <Form.Group>
@@ -32,7 +34,10 @@ class App    extends Component{
         
         {
             this.props.memes.slice(0,this.state.memeLimit).map((meme,index)=>{
-            return <MemeItem key={index} id={meme.id}img={meme.url} name={meme.name} text0={this.state.text0} text1={this.state.text1}/>
+                
+            return <MemeItem key={index} id={meme.id}img={meme.url} name={meme.name}
+             text0={this.state.text0}
+              text1={this.state.text1}/>
             })
         }
         <div onClick={()=>this.setState({memeLimit:this.state.memeLimit+10})} className='meme-button'>Load More Memes ...</div>
