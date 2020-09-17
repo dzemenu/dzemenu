@@ -1,5 +1,4 @@
-### Hi there 👋
-Meme Generator 
+ 👋 Meme Generator 
 
 Meme genrator base on imgflip.com API and bootstraped by CRA
 Technologies used
