@@ -2,15 +2,15 @@
 
 Meme genrator base on imgflip.com API and bootstraped by CRA
 Technologies used
-        Create-react-app
-        React
-        Redux
-        React-redux
-        React-bootstrap
-        React-thunk
+       - Create-react-app
+       - React
+       - Redux
+       - React-redux
+       - React-bootstrap
+        -React-thunk
    Installation     
-  Git clone
-   yarn
+    -Git clone
+    -yarn
    
 
 
