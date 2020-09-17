@@ -21,7 +21,7 @@ class App    extends Component{
         <div><u>Welcome to Meme Generator</u></div>
         <MyMeme />
         <Form inline>
-            <h4>Write something</h4>
+            <h4>Write something and click your favorite picture</h4>
         <Form.Group>
             <Form.Label>Top</Form.Label>
             <Form.Control type='text' onChange={event=>this.setState({text0:event.target.value})}></Form.Control>
