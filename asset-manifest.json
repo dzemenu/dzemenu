@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dzemenu/static/css/main.9fdb1473.chunk.css",
+    "main.css": "/dzemenu/static/css/main.ea4c7491.chunk.css",
     "main.js": "/dzemenu/static/js/main.3a4ba0c7.chunk.js",
     "main.js.map": "/dzemenu/static/js/main.3a4ba0c7.chunk.js.map",
     "runtime-main.js": "/dzemenu/static/js/runtime-main.a3ca18e7.js",
@@ -8,15 +8,15 @@
     "static/js/2.796c737f.chunk.js": "/dzemenu/static/js/2.796c737f.chunk.js",
     "static/js/2.796c737f.chunk.js.map": "/dzemenu/static/js/2.796c737f.chunk.js.map",
     "index.html": "/dzemenu/index.html",
-    "precache-manifest.133b449b1fd64f0e5b2fcf633c5e38db.js": "/dzemenu/precache-manifest.133b449b1fd64f0e5b2fcf633c5e38db.js",
+    "precache-manifest.3c1f8efa217ec9f8dd469d789eaca437.js": "/dzemenu/precache-manifest.3c1f8efa217ec9f8dd469d789eaca437.js",
     "service-worker.js": "/dzemenu/service-worker.js",
-    "static/css/main.9fdb1473.chunk.css.map": "/dzemenu/static/css/main.9fdb1473.chunk.css.map",
+    "static/css/main.ea4c7491.chunk.css.map": "/dzemenu/static/css/main.ea4c7491.chunk.css.map",
     "static/js/2.796c737f.chunk.js.LICENSE.txt": "/dzemenu/static/js/2.796c737f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3ca18e7.js",
     "static/js/2.796c737f.chunk.js",
-    "static/css/main.9fdb1473.chunk.css",
+    "static/css/main.ea4c7491.chunk.css",
     "static/js/main.3a4ba0c7.chunk.js"
   ]
 }

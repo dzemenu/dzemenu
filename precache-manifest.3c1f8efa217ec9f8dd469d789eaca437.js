@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e93cdcdbe34ff943ccdd5e2e60e3823b",
+    "revision": "f9fd55db4fb79dc9180b8e61bea99357",
     "url": "/dzemenu/index.html"
   },
   {
-    "revision": "27319a852348871239c9",
-    "url": "/dzemenu/static/css/main.9fdb1473.chunk.css"
+    "revision": "6310ec143917e7945192",
+    "url": "/dzemenu/static/css/main.ea4c7491.chunk.css"
   },
   {
     "revision": "78503ccbf88ce9be46b0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dzemenu/static/js/2.796c737f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27319a852348871239c9",
+    "revision": "6310ec143917e7945192",
     "url": "/dzemenu/static/js/main.3a4ba0c7.chunk.js"
   },
   {
