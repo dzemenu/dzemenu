@@ -12,8 +12,13 @@ import {connect} from 'react-redux'
                 
                 
                 this.props.myMemes.map((meme,index)=>{
-                    return (<img key={index} src={meme.data.url} className='my-meme-img'/>)
-                }) : ''}
+                    return (<div><img key={index} src={meme.data.url} className='my-meme-img'/>  
+                    <a href={meme.data.url}>Download yours memes </a> </div>)
+                }) : ''
+                
+                }
+
+               
             </div> 
             
         )
