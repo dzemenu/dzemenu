@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dzemenu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Milad Ranjbar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Turing**
+- :office: &nbsp;I'm currently open for **Work**
 - :speech_balloon: &nbsp;I like to talk about **React** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
